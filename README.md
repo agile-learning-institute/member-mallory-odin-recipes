@@ -12,3 +12,4 @@ Recipe Recollections provides a user with an array of recipes from times ago. Ma
 ## Languages
 
 - HTML
+- CSS

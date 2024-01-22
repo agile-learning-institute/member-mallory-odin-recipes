@@ -1,0 +1,21 @@
+* {
+    background-color: palegoldenrod;
+}
+
+.main-title {
+    font-size: 52px;
+    color: darkred;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.sub-title {
+    text-align: center;
+    color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.links li {
+    text-align: center;
+    list-style-type: none;
+}
